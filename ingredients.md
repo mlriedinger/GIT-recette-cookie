@@ -1,12 +1,12 @@
 # RECETTE
 
-- 100g de chocolat noir
-- 75g de beurre
-- 85g de sucre
-- 1 oeuf
-- 1 gousse de vanille
-- 150g de farine
-- 1 sachet de levure chimique
-- 1 cac de sel
+- 1000g de chocolat noir
+- 750g de beurre
+- 850g de sucre
+- 3 oeuf
+- 7 gousse de vanille
+- 1500g de farine
+- 10 sachet de levure chimique
+- 1.75 cac de sel
 
 
